@@ -1,0 +1,19 @@
+3-Jobs in web developments:
+
+- full stack: is a developer or engineer who can build both the front end and the back end of a website.
+Full-stack developers have a high level of competency in both frontend and backend languages. 
+They are skilled in HTML, CSS, JavaScript, NodeJS and PHP. 
+Equally, full-stack developers understand various database management systems (DBMS) like MySQL, MongoDB, and more.
+
+- front-end : the parts of a website a user sees and interacts with
+
+- backend : the behind-the-scenes data storage and processing
+
+- UI/UX : user interface (UI) refers to the interactivity, look, and feel of a product screen or web page, 
+while user experience (UX) covers a user's overall experience with the product or website.
+
+- project manager : responsible for day-to-day management of the project and must be competent in 
+managing the six aspects of a project, i.e. scope, schedule, finance, risk, quality and resources.
+ 
+- DevOps: introduce methodologies to balance needs throughout the software development life cycle, processes, 
+and tools, from coding to development to maintenance and updates. 
