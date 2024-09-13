@@ -1,0 +1,4 @@
+Home work: 
+Create new repository make sure to clone it on your laptop then create 5 folder 📁 for technology like 
+html css js php laravel and for each folder add file add any thing you want inside folders  after that 
+upload it in your repository
